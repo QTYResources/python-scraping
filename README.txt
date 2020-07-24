@@ -19,7 +19,9 @@ ISBN: 978-7-115-41629-2
 第一部分 创建爬虫
 
 Chapter01 第1章 初见网络爬虫
-
+  01. basicExample.py                     ===> 使用 urlopen 函数下载网页
+  02. beautifulSoup.py                    ===> 使用BeautifulSoup解析下载好的网页
+  03. exceptionHandling.py                ===> 异常处理
 
 Chapter02 第2章 复杂 HTML 解析
 
